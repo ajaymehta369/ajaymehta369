@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently Working On**: **ASTRO_GPT** & **FarmSetu**
+- 🔭 **Currently Working On**: **Latiq AI Controller** & **ASTRO_GPT**
 - 🌱 **Learning & Exploring**: Machine Learning algorithms, Data Science pipelines, and scalable web apps.
 - 👯 **Looking to Collaborate On**: Open source Python, Web Development, and AI projects.
 - 💬 **Ask Me About**: Python, JavaScript, Jupyter Notebooks, React, Data Analysis.
@@ -52,6 +52,9 @@
 
 ### 🚀 Featured Projects
 
+- 🧠 **Latiq AI Controller**  
+  *Next-gen AI controller & intelligence automation system.*
+
 - 🌌 **[ASTRO_GPT](https://github.com/ajaymehta369/ASTRO_GPT)**  
   *AI-powered conversational & intelligence tool built with Python & AI models.*
   
@@ -66,15 +69,13 @@
 
 ---
 
-### 📊 GitHub Analytics & Stats
+### 📊 GitHub Activity & Streak Analytics
 
 <div align="center">
 
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajaymehta369&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ajaymehta369&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaymehta369&layout=compact&theme=tokyonight&hide=html,css)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajaymehta369&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajaymehta369&theme=tokyonight)
 
 </div>
 
