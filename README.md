@@ -69,11 +69,9 @@
 
 ---
 
-### 📊 GitHub Activity & Streak Analytics
+### 📊 GitHub Activity Analytics
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ajaymehta369&theme=tokyonight)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajaymehta369&theme=tokyonight)
 
@@ -96,9 +94,9 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajaymehta369)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajaymehta369)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaymehta369@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ajaymehta369)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-mehta-b85a6a263/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyanmehta428@gmail.com)
+[![takeUforward](https://img.shields.io/badge/takeUforward-FF6B00?style=for-the-badge&logo=codeforces&logoColor=white)](https://takeuforward.org/profile/ajaymehta206)
 
 <br/>
 
